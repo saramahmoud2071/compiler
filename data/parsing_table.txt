@@ -1,0 +1,30 @@
+T' ( 
+T' + \L 
+T $ \SYNC 
+T' * * F T' 
+E' + + T E' 
+E' id 
+T id F T' 
+F id id 
+T ( F T' 
+T * 
+E' ( 
+E' $ \L 
+T' ) \L 
+E $ \SYNC 
+E' ) \L 
+E ( T E' 
+E * 
+T' $ \L 
+E id T E' 
+E' * 
+E ) \SYNC 
+F + \SYNC 
+F ) \SYNC 
+T ) \SYNC 
+T + \SYNC 
+E + 
+F * \SYNC 
+F ( ( E ) 
+F $ \SYNC 
+T' id 
